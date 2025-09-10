@@ -1,0 +1,60 @@
+# -----------------------------
+# Reference genome for MitoFinder
+# -----------------------------
+REFERENCE: "/home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb"
+
+# -----------------------------
+# Input directories
+# -----------------------------
+SOURCE_DIRECTORY: "/share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData"  # raw FASTQs
+MITOFINDER_OUTPUT_DIR: "/share/pool/toriowo/Resources/mitogenomes/output"                                            # MitoFinder outputs
+
+# -----------------------------
+# Temporary and final output directories
+# -----------------------------
+TEMP_DIRECTORY: "/share/pool/toriowo/Resources/mitogenomes/temp"
+FINAL_OUTPUT_DIRECTORY: "/share/pool/toriowo/Resources/mitogenomes/outputs"                                           # final MitoFinder outputs
+RENAMED_MTDNA_DIR: "/home/toriowo/Projects/SpeciesDelimitation/mitogenomes/renamed_mtDNA_contigs"                    # renamed FASTA outputs
+ALIGNMENT_DIR: "/home/toriowo/Projects/SpeciesDelimitation/mitogenomes/results/align"                                 # aligned sequences
+VCF_DIR: "/home/toriowo/Projects/SpeciesDelimitation/mitogenomes/results/mtSNPs/mtDNA_snps"                            # SNP outputs
+
+# -----------------------------
+# Tools / software paths
+# -----------------------------
+AMAS_PATH: "/home/toriowo/.local/bin/AMAS.py"
+
+# -----------------------------
+# Threads / resources
+# -----------------------------
+THREADS: 7
+
+# -----------------------------
+# Metadata / rename table for post-MitoFinder FASTA files
+# -----------------------------
+METADATA_FILE: "/home/toriowo/Projects/SpeciesDelimitation/mitogenomes/mitogenome-metadata.txt"                     # for post-MitoFinder renaming
+
+# -----------------------------
+# Gene list (from original set)
+# -----------------------------
+MITO_GENES:
+  - ND1
+  - ND2
+  - COX1
+  - COX2
+  - ATP8
+  - ATP6
+  - COX3
+  - ND3
+  - ND4L
+  - ND4
+  - ND5
+  - ND6
+  - CYTB
+
+# -----------------------------
+# Workflow switches (enable/disable modules)
+# -----------------------------
+RUN_MODULES:
+  extract_mitogenomes: true
+  rename_extracted_mitogenomes: false
+  mitogenome_phylogeny: false

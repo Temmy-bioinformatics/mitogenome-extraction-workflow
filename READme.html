@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title></title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <p>MitoExtractor Snakemake Workflow</p>
+<p>Author: Temitope Oriowo
+Email: <a href="mailto:t.oriowo@leibniz-lib.de">t.oriowo@leibniz-lib.de</a></p>
+<p>A Snakemake workflow to extract mitochondrial genomes from raw Illumina paired-end sequencing data using MitoFinder. This workflow supports recursive detection of FASTQ files in subdirectories and organizes outputs by sample.</p>
+<p>Table of Contents</p>
+<p>Project Overview</p>
+<p>Directory Structure</p>
+<p>Requirements</p>
+<p>Configuration</p>
+<p>Running the Workflow</p>
+<p>Output</p>
+<p>Tips and Notes</p>
+<p>Project Overview</p>
+<p>This workflow automates:</p>
+<p>Discovery of paired-end FASTQ files in subdirectories.</p>
+<p>Extraction of mitochondrial genomes using MitoFinder.</p>
+<p>Organization of outputs into per-sample directories.</p>
+<p>Cleanup of temporary working files.</p>
+<p>It is designed to run on HPC clusters (SGE/SLURM) or locally, supports multiple cores, and can leverage conda environments or module systems.</p>
+<p>Directory Structure
+mitogenome-extraction-workflow/
+├── config/
+│   └── config.yaml           # Workflow configuration
+├── workflow/
+│   ├── rules/
+│   │   └── extract-mitogenomes.smk  # Snakemake rules
+│   └── logs/                 # Logs for job submissions
+├── results/                  # Final outputs (configured in config.yaml)
+├── envs/                     # Optional conda environments
+└── <a href="http://README.html">README.md</a></p>
+<p>Requirements</p>
+<p>Software:</p>
+<p>MitoFinder
+(path added to $PATH)</p>
+<p>Java JRE 1.8+</p>
+<p>Snakemake 7+</p>
+<p>Python Packages (via conda):</p>
+<p>glob, os (standard)</p>
+<p>Cluster Modules (optional):</p>
+<p>module load java/jre1.8.0_231</p>
+<p>Configuration</p>
+<p>Edit config/config.yaml to set:</p>
+<p>reference: &quot;/path/to/reference.gb&quot;
+source_directory: &quot;/path/to/raw_fastq&quot;
+temp_directory: &quot;/path/to/temp&quot;
+final_output_directory: &quot;/path/to/results&quot;
+threads: 7</p>
+<p>source_directory: Root directory containing subdirectories of samples.</p>
+<p>temp_directory: Working directory for MitoFinder intermediate files.</p>
+<p>final_output_directory: Where final mitochondrial genome results are stored.</p>
+<p>threads: Number of threads per sample.</p>
+<p>Running the Workflow
+Dry Run (Cold Run)
+snakemake --snakefile workflow/rules/extract-mitogenomes.smk <br>
+--configfile config/config.yaml <br>
+--cores 1 <br>
+--printshellcmds <br>
+--reason <br>
+-n</p>
+<p>Checks all samples and commands without executing them.</p>
+<p>Full Run (Local)
+snakemake --snakefile workflow/rules/extract-mitogenomes.smk <br>
+--configfile config/config.yaml <br>
+--cores 16 <br>
+--printshellcmds <br>
+--reason</p>
+<p>Cluster Execution (SGE)
+qsub run_mitofinder.sh</p>
+<p>Where run_mitofinder.sh contains your Snakemake command with environment setup and cores.</p>
+<p>Output</p>
+<p>For each sample, the final output directory is:</p>
+<p>&lt;final_output_directory&gt;/<sample>/<sample>_MitoFinder_megahit_mitfi_Final_Results/</p>
+<p>Contains:</p>
+<p>Assembled mitochondrial genome (.fasta)</p>
+<p>Annotation files (.gb, .tbl, .gff)</p>
+<p>Logs of MitoFinder runs</p>
+<p>Temporary working directories are automatically removed after successful completion.</p>
+<p>Tips and Notes</p>
+<p>Ensure MitoFinder path and Java module are correctly loaded in your shell or Snakemake shell commands.</p>
+<p>Sample names are automatically derived from subdirectory names.</p>
+<p>_1 and _2 FASTQs must be paired and located in the same subdirectory.</p>
+<p>Use dry-run first to verify your setup before large-scale execution.</p>
+<p>Adjust threads in config.yaml according to available resources.</p>
+
+            <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+            
+        </body>
+        </html>
