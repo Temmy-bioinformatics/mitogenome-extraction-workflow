@@ -26,7 +26,7 @@ AMAS_PATH: "/home/toriowo/.local/bin/AMAS.py"
 # -----------------------------
 # Threads / resources
 # -----------------------------
-THREADS: 7
+THREADS: 3
 
 # -----------------------------
 # Metadata / rename table for post-MitoFinder FASTA files

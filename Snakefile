@@ -1,19 +1,19 @@
 # Master Snakefile
 
 # Load config
-configfile: "config.yaml"
+configfile: "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/config/config.yaml"
 
 # -----------------------------
 # Conditionally include modules
 # -----------------------------
 if config["RUN_MODULES"]["extract_mitogenomes"]:
-    include: "01-extract_mitogenomes.smk"
+    include: "workflow/rules/01-extract_mitogenomes.smk"
 
 if config["RUN_MODULES"]["rename_extracted_mitogenomes"]:
-    include: "02-rename_extracted_mitogenomes.smk"
+    include: "workflow/rules/02-rename_extracted_mitogenomes.smk"
 
 if config["RUN_MODULES"]["mitogenome_phylogeny"]:
-    include: "03-mitogenome_phylogeny.smk"
+    include: "workflow/rules/03-mitogenome_phylogeny.smk"
 
 # -----------------------------
 # Master 'all' rule
