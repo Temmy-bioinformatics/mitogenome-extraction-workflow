@@ -9,14 +9,14 @@ fastq_paths = glob.glob(os.path.join(config["SOURCE_DIRECTORY"], "**/*_1.fq.gz")
 
 SAMPLES = sorted(list({os.path.basename(os.path.dirname(fq)) for fq in fastq_paths}))
 
-# Map sample name -> fq1 and fq2 paths (handle multiple lanes)
+# Map sample name -> fq1 and fq2 paths (keep only the first lane)
 SAMPLE_FASTQS = {}
 for fq in fastq_paths:
     sample = os.path.basename(os.path.dirname(fq))
     fq2 = fq.replace("_1.fq.gz", "_2.fq.gz").replace("_1.fastq.gz", "_2.fastq.gz")
-    SAMPLE_FASTQS.setdefault(sample, {"fq1": [], "fq2": []})
-    SAMPLE_FASTQS[sample]["fq1"].append(fq)
-    SAMPLE_FASTQS[sample]["fq2"].append(fq2)
+    # Only store the first occurrence for each sample
+    if sample not in SAMPLE_FASTQS:
+        SAMPLE_FASTQS[sample] = {"fq1": fq, "fq2": fq2}
 
 # -----------------------------
 # Run MitoFinder
@@ -36,12 +36,14 @@ rule mitofinder:
         module load java/jre1.8.0_231
 
         mkdir -p {config[TEMP_DIRECTORY]}/{wildcards.sample}
+        cd {config[TEMP_DIRECTORY]}/{wildcards.sample}
 
         mitofinder -j {wildcards.sample} \
                    -1 {input.fq1} \
                    -2 {input.fq2} \
                    -r {input.reference} \
-                   -o {config[TEMP_DIRECTORY]}/{wildcards.sample} \
+                   --max-contig 1 \
+                   -o 2 \
                    -p {threads}
 
         if [ -d {config[TEMP_DIRECTORY]}/{wildcards.sample}/{wildcards.sample}_MitoFinder_megahit_mitfi_Final_Results ]; then

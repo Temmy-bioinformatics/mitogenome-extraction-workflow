@@ -1,0 +1,1747 @@
+### module info ###
+# loaded module miniforge/24.7.1-0
+# For further information see:
+# https://github.com/conda-forge/miniforge
+######
+
+Assuming unrestricted shared filesystem usage.
+host: compute-0-4.local
+Building DAG of jobs...
+Need to rerun job mark_extract_done because of missing output required by all.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job all because job mark_extract_done has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO40/AO40_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO36/AO36_MitoFinder_megahit_mitfi_Final_Results: True 0
+: False 1
+/share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/extracted.done: False 24
+/share/pool/toriowo/Resources/mitogenomes/outputs/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO28/AO28_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/ALT1/ALT1_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/VER3/VER3_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO51/AO51_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO30/AO30_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/ALT4/ALT4_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/VER4/VER4_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO53/AO53_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO33/AO33_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/ALT6/ALT6_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/LAU4/LAU4_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO35/AO35_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results: True 0
+shared_storage_local_copies: True
+remote_exec: False
+Submitting maximum 100 job(s) over 1.0 second(s).
+Using shell: /bin/bash
+Provided cores: 30
+Rules claiming more threads will be scaled down.
+Job stats:
+job                  count
+-----------------  -------
+all                      1
+mark_extract_done        1
+mitofinder              24
+total                   26
+
+Resources before job selection: {'_cores': 30, '_nodes': 9223372036854775807, '_job_count': 9223372036854775807}
+Ready jobs: 24
+Select jobs to execute...
+Selected jobs: 10
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Execute 10 jobs...
+
+[Wed Sep 17 14:21:37 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 22
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=MOR78
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+
+        mitofinder -j MOR78                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR78                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+    
+
+[Wed Sep 17 14:21:37 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 15
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=AO44
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+
+        mitofinder -j AO44                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO44                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO44
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+    
+
+[Wed Sep 17 14:21:37 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 12
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=AO37
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+
+        mitofinder -j AO37                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO37                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO37
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+    
+
+[Wed Sep 17 14:21:38 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 21
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=MOR76
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+
+        mitofinder -j MOR76                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR76                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+    
+
+[Wed Sep 17 14:21:38 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 5
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=AO26
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+
+        mitofinder -j AO26                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO26                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO26
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+    
+
+[Wed Sep 17 14:21:39 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 14
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=AO41
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+
+        mitofinder -j AO41                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO41                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO41
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+    
+
+[Wed Sep 17 14:21:39 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 6
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=AO27
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+
+        mitofinder -j AO27                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO27                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO27
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+    
+
+[Wed Sep 17 14:21:39 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 23
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=VER2
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+
+        mitofinder -j VER2                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/VER2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/VER2
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+    
+
+[Wed Sep 17 14:21:39 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 16
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=AO46
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+
+        mitofinder -j AO46                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO46                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO46
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+    
+
+[Wed Sep 17 14:21:39 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 20
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results
+    wildcards: sample=LAU5
+    threads: 3
+    resources: tmpdir=/tmp/2046794.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+
+        mitofinder -j LAU5                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/LAU5                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+    
+Waiting for running jobs to complete.
+usage: mitofinder [-h] [--megahit] [--idba] [--metaspades] [-t TRNAANNOTATION]
+                  [-j PROCESSNAME] [-1 PE1] [-2 PE2] [-s SE] [-c CONFIG]
+                  [-a ASSEMBLY] [-m MEM] [-l SHORTESTCONTIG]
+                  [-p PROCESSORSTOUSE] [-r REFSEQFILE] [-e BLASTEVAL]
+                  [-n NWALK] [--override] [--adjust-direction] [--ignore]
+                  [--new-genes] [--allow-intron] [--numt]
+                  [--intron-size INTRONSIZE] [--max-contig MAXCONTIG]
+                  [--cds-merge] [--out-gb] [--min-contig-size MINCONTIGSIZE]
+                  [--max-contig-size MAXCONTIGSIZE] [--rename-contig RENAME]
+                  [--blast-identity-nucl BLASTIDENTITYNUCL]
+                  [--blast-identity-prot BLASTIDENTITYPROT]
+                  [--blast-size ALIGNCUTOFF] [--circular-size CIRCULARSIZE]
+                  [--circular-offset CIRCULAROFFSET] [-o ORGANISMTYPE] [-v]
+                  [--example] [--citation]
+mitofinder: error: unrecognized arguments: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz
+usage: mitofinder [-h] [--megahit] [--idba] [--metaspades] [-t TRNAANNOTATION]
+                  [-j PROCESSNAME] [-1 PE1] [-2 PE2] [-s SE] [-c CONFIG]
+                  [-a ASSEMBLY] [-m MEM] [-l SHORTESTCONTIG]
+                  [-p PROCESSORSTOUSE] [-r REFSEQFILE] [-e BLASTEVAL]
+                  [-n NWALK] [--override] [--adjust-direction] [--ignore]
+                  [--new-genes] [--allow-intron] [--numt]
+                  [--intron-size INTRONSIZE] [--max-contig MAXCONTIG]
+                  [--cds-merge] [--out-gb] [--min-contig-size MINCONTIGSIZE]
+                  [--max-contig-size MAXCONTIGSIZE] [--rename-contig RENAME]
+                  [--blast-identity-nucl BLASTIDENTITYNUCL]
+                  [--blast-identity-prot BLASTIDENTITYPROT]
+                  [--blast-size ALIGNCUTOFF] [--circular-size CIRCULARSIZE]
+                  [--circular-offset CIRCULAROFFSET] [-o ORGANISMTYPE] [-v]
+                  [--example] [--citation]
+mitofinder: error: unrecognized arguments: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+
+        mitofinder -j AO26                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO26                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO26
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO26' returned non-zero exit status 2.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+
+        mitofinder -j AO44                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO44                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO44
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO44' returned non-zero exit status 2.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+
+        mitofinder -j AO44                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO44                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO44
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO44' returned non-zero exit status 2.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+
+        mitofinder -j AO44                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO44                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO44
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO44' returned non-zero exit status 2.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+
+        mitofinder -j AO26                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO26                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO26
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO26' returned non-zero exit status 2.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+
+        mitofinder -j AO26                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO26                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO26
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO26' returned non-zero exit status 2.
+
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+
+        mitofinder -j AO44                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO44                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO44
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO44' returned non-zero exit status 2.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 15
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+
+        mitofinder -j AO44                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO44                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO44
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+    
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+
+        mitofinder -j AO26                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO26                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO26
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO26' returned non-zero exit status 2.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 5
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+
+        mitofinder -j AO26                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO26                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO26
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+    
+        (command exited with non-zero exit code)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/toriowo/Tools/Mitofinder/MitoFinder/mitofinder", line 161, in <module>
+  File "/home/toriowo/Tools/Mitofinder/MitoFinder/mitofinder", line 161, in <module>
+Traceback (most recent call last):
+  File "/home/toriowo/Tools/Mitofinder/MitoFinder/mitofinder", line 161, in <module>
+    args.organismType=int(args.organismType)
+ValueError:     args.organismType=int(args.organismType)
+invalid literal for int() with base 10: '/share/pool/toriowo/Resources/mitogenomes/temp/AO27'
+ValueError: invalid literal for int() with base 10: '/share/pool/toriowo/Resources/mitogenomes/temp/MOR76'
+Traceback (most recent call last):
+  File "/home/toriowo/Tools/Mitofinder/MitoFinder/mitofinder", line 161, in <module>
+    args.organismType=int(args.organismType)
+ValueError: invalid literal for int() with base 10: '/share/pool/toriowo/Resources/mitogenomes/temp/MOR78'
+    args.organismType=int(args.organismType)
+ValueError: invalid literal for int() with base 10: '/share/pool/toriowo/Resources/mitogenomes/temp/AO37'
+Traceback (most recent call last):
+  File "/home/toriowo/Tools/Mitofinder/MitoFinder/mitofinder", line 161, in <module>
+    args.organismType=int(args.organismType)
+ValueError: invalid literal for int() with base 10: '/share/pool/toriowo/Resources/mitogenomes/temp/AO46'
+Traceback (most recent call last):
+  File "/home/toriowo/Tools/Mitofinder/MitoFinder/mitofinder", line 161, in <module>
+    args.organismType=int(args.organismType)
+ValueError: invalid literal for int() with base 10: '/share/pool/toriowo/Resources/mitogenomes/temp/VER2'
+Traceback (most recent call last):
+  File "/home/toriowo/Tools/Mitofinder/MitoFinder/mitofinder", line 161, in <module>
+    args.organismType=int(args.organismType)
+ValueError: invalid literal for int() with base 10: '/share/pool/toriowo/Resources/mitogenomes/temp/AO41'
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+
+        mitofinder -j MOR78                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR78                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR78' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+
+        mitofinder -j AO37                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO37                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO37
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO37' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+
+        mitofinder -j AO27                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO27                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO27
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO27' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+
+        mitofinder -j MOR76                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR76                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR76' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+
+        mitofinder -j VER2                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/VER2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/VER2
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/VER2' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+
+        mitofinder -j AO46                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO46                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO46
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO46' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+
+        mitofinder -j AO41                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO41                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO41
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO41' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+
+        mitofinder -j AO37                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO37                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO37
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO37' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+
+        mitofinder -j AO37                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO37                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO37
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO37' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+
+        mitofinder -j VER2                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/VER2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/VER2
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/VER2' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+
+        mitofinder -j VER2                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/VER2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/VER2
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/VER2' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+
+        mitofinder -j AO46                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO46                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO46
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO46' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+
+        mitofinder -j AO46                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO46                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO46
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO46' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+
+        mitofinder -j MOR78                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR78                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR78' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+
+        mitofinder -j MOR78                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR78                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR78' returned non-zero exit status 1.
+
+usage: mitofinder [-h] [--megahit] [--idba] [--metaspades] [-t TRNAANNOTATION]
+                  [-j PROCESSNAME] [-1 PE1] [-2 PE2] [-s SE] [-c CONFIG]
+                  [-a ASSEMBLY] [-m MEM] [-l SHORTESTCONTIG]
+                  [-p PROCESSORSTOUSE] [-r REFSEQFILE] [-e BLASTEVAL]
+                  [-n NWALK] [--override] [--adjust-direction] [--ignore]
+                  [--new-genes] [--allow-intron] [--numt]
+                  [--intron-size INTRONSIZE] [--max-contig MAXCONTIG]
+                  [--cds-merge] [--out-gb] [--min-contig-size MINCONTIGSIZE]
+                  [--max-contig-size MAXCONTIGSIZE] [--rename-contig RENAME]
+                  [--blast-identity-nucl BLASTIDENTITYNUCL]
+                  [--blast-identity-prot BLASTIDENTITYPROT]
+                  [--blast-size ALIGNCUTOFF] [--circular-size CIRCULARSIZE]
+                  [--circular-offset CIRCULAROFFSET] [-o ORGANISMTYPE] [-v]
+                  [--example] [--citation]
+mitofinder: error: unrecognized arguments: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+
+        mitofinder -j MOR76                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR76                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR76' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+
+        mitofinder -j MOR76                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR76                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR76' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+
+        mitofinder -j AO27                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO27                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO27
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO27' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+
+        mitofinder -j AO27                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO27                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO27
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO27' returned non-zero exit status 1.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+
+        mitofinder -j AO41                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO41                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO41
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO41' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+
+        mitofinder -j AO41                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO41                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO41
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO41' returned non-zero exit status 1.
+
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+
+        mitofinder -j AO37                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO37                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO37
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO37' returned non-zero exit status 1.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 12
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+
+        mitofinder -j AO37                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO37                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO37
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+    
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+
+        mitofinder -j AO27                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO27                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO27
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO27' returned non-zero exit status 1.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 6
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+
+        mitofinder -j AO27                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO27                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO27
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+    
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+
+        mitofinder -j MOR78                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR78                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR78' returned non-zero exit status 1.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 22
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+
+        mitofinder -j MOR78                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR78                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+    
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+
+        mitofinder -j VER2                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/VER2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/VER2
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/VER2' returned non-zero exit status 1.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 23
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+
+        mitofinder -j VER2                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/VER2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/VER2
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+    
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+
+        mitofinder -j AO41                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO41                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO41
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO41' returned non-zero exit status 1.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 14
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+
+        mitofinder -j AO41                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO41                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO41
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+    
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+
+        mitofinder -j MOR76                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR76                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR76' returned non-zero exit status 1.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 21
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+
+        mitofinder -j MOR76                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR76                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+    
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+
+        mitofinder -j AO46                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO46                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO46
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO46' returned non-zero exit status 1.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 16
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+
+        mitofinder -j AO46                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO46                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO46
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+    
+        (command exited with non-zero exit code)
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+
+        mitofinder -j LAU5                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/LAU5                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/LAU5' returned non-zero exit status 2.
+
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 425, in run_wrapper
+    run(
+  File "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 67, in __rule_mitofinder
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/shell.py", line 358, in __new__
+    raise sp.CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+
+        mitofinder -j LAU5                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/LAU5                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/LAU5' returned non-zero exit status 2.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 247, in cached_or_run
+    run_func(*args)
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/executors/local.py", line 461, in run_wrapper
+    raise RuleException(
+snakemake.exceptions.RuleException: CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+
+        mitofinder -j LAU5                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/LAU5                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/LAU5' returned non-zero exit status 2.
+
+RuleException:
+CalledProcessError in file "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/01-extract_mitogenomes.smk", line 34:
+Command 'set -euo pipefail;  
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+
+        mitofinder -j LAU5                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/LAU5                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/LAU5' returned non-zero exit status 2.
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 20
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+
+        mitofinder -j LAU5                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/LAU5                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+    
+        (command exited with non-zero exit code)
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look below for error messages
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 22
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+
+        mitofinder -j MOR78                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR78                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 15
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+
+        mitofinder -j AO44                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO44                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO44
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 12
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+
+        mitofinder -j AO37                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO37                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO37
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 5
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+
+        mitofinder -j AO26                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO26                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO26
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 21
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+
+        mitofinder -j MOR76                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/MOR76                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 14
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+
+        mitofinder -j AO41                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO41                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO41
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 6
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+
+        mitofinder -j AO27                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO27                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO27
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 23
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+
+        mitofinder -j VER2                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/VER2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/VER2
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 16
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+
+        mitofinder -j AO46                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/AO46                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO46
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+    
+        (command exited with non-zero exit code)
+[Wed Sep 17 14:21:40 2025]
+Error in rule mitofinder:
+    message: None
+    jobid: 20
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results
+    shell:
+        
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+
+        mitofinder -j LAU5                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WYVJLT4_L4_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    -o /share/pool/toriowo/Resources/mitogenomes/temp/LAU5                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+    
+        (command exited with non-zero exit code)
+Complete log(s): /home/toriowo/SNAKEMAKE/MitoExtractor_run/.snakemake/log/2025-09-17T142136.292234.snakemake.log
+unlocking
+removing lock
+removing lock
+removed all locks
+Full Traceback (most recent call last):
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/cli.py", line 2165, in args_to_api
+    dag_api.execute_workflow(
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/api.py", line 603, in execute_workflow
+    workflow.execute(
+  File "/home/toriowo/.conda/envs/snakemake/lib/python3.12/site-packages/snakemake/workflow.py", line 1451, in execute
+    raise WorkflowError("At least one job did not complete successfully.")
+snakemake_interface_common.exceptions.WorkflowError: At least one job did not complete successfully.
+
+WorkflowError:
+At least one job did not complete successfully.

@@ -7,7 +7,7 @@
 #$ -e /home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/logs
 #$ -o /home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/logs
 #$ -q medium.q,large.q
-#$ -pe smp 16
+#$ -pe smp 31
 #$ -m n
 #$ -N mitogenome_extract
 
@@ -31,7 +31,7 @@ cd /home/toriowo/SNAKEMAKE/MitoExtractor_run
 conda activate /home/toriowo/.conda/envs/snakemake
 
 
-SMK_FILE="/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/extract-mitogenomes.smk"
+SMK_FILE="/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/Snakefile"
 CONFIG="/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/config/config.yaml"
 
 # Running Snakemake with the single config file
@@ -40,11 +40,10 @@ echo "${CONFIG}"
 
 
 # Launch Snakemake pipeline
-snakemake --cores 15 \
+snakemake --cores 30 \
           --use-envmodules \
           --printshellcmds \
           --verbose \
-          --reason \
           --snakefile ${SMK_FILE} \
           --configfile ${CONFIG} \
           --latency-wait 300

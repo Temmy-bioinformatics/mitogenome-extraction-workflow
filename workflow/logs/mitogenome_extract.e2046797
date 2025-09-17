@@ -1,0 +1,2791 @@
+### module info ###
+# loaded module miniforge/24.7.1-0
+# For further information see:
+# https://github.com/conda-forge/miniforge
+######
+
+Assuming unrestricted shared filesystem usage.
+host: compute-0-8.local
+Building DAG of jobs...
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job mitofinder because of missing output required by mark_extract_done.
+Need to rerun job all because job mark_extract_done has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+Need to rerun job mark_extract_done because job mitofinder has to be rerun.
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO40/AO40_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO36/AO36_MitoFinder_megahit_mitfi_Final_Results: True 0
+: False 1
+/share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/extracted.done: False 24
+/share/pool/toriowo/Resources/mitogenomes/outputs/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO28/AO28_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/ALT1/ALT1_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/VER3/VER3_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO51/AO51_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO30/AO30_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/ALT4/ALT4_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/VER4/VER4_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO53/AO53_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO33/AO33_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/ALT6/ALT6_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/LAU4/LAU4_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO35/AO35_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results: True 0
+/share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results: True 0
+shared_storage_local_copies: True
+remote_exec: False
+Submitting maximum 100 job(s) over 1.0 second(s).
+Using shell: /bin/bash
+Provided cores: 30
+Rules claiming more threads will be scaled down.
+Job stats:
+job                  count
+-----------------  -------
+all                      1
+mark_extract_done        1
+mitofinder              24
+total                   26
+
+Resources before job selection: {'_cores': 30, '_nodes': 9223372036854775807, '_job_count': 9223372036854775807}
+Ready jobs: 24
+Select jobs to execute...
+Selected jobs: 10
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Execute 10 jobs...
+
+[Wed Sep 17 14:44:47 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 22
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results; Code has changed since last execution
+    wildcards: sample=MOR78
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+
+        mitofinder -j MOR78                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR78/MOR78_EKDN250030877-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR78/MOR78_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR78/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR78
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 15
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: sample=AO44
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+
+        mitofinder -j AO44                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO44/AO44_EKDN250030861-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO44
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO44/AO44_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO44/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO44
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 12
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results; Code has changed since last execution
+    wildcards: sample=AO37
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+
+        mitofinder -j AO37                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO37/AO37_EKDN250030858-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO37
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO37/AO37_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO37/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO37
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 21
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results; Code has changed since last execution
+    wildcards: sample=MOR76
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+
+        mitofinder -j MOR76                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/MOR76/MOR76_EKDN250030876-1A_22WTH5LT4_L3_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/MOR76/MOR76_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/MOR76/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/MOR76
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 5
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: sample=AO26
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+
+        mitofinder -j AO26                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO26/AO26_EKDN250030852-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO26
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO26/AO26_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO26/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO26
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 14
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results; Code has changed since last execution
+    wildcards: sample=AO41
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+
+        mitofinder -j AO41                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO41/AO41_EKDN250030860-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO41
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO41/AO41_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO41/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO41
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 6
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results; Code has changed since last execution
+    wildcards: sample=AO27
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+
+        mitofinder -j AO27                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO27/AO27_EKDN250030853-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO27
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO27/AO27_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO27/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO27
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 23
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results; Code has changed since last execution
+    wildcards: sample=VER2
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+
+        mitofinder -j VER2                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/VER2/VER2_EKDN250030868-1A_22WTH5LT4_L2_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/VER2
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/VER2/VER2_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/VER2/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/VER2
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 16
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results; Code has changed since last execution
+    wildcards: sample=AO46
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+
+        mitofinder -j AO46                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/AO46/AO46_EKDN250030862-1A_22WTH7LT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/AO46
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/AO46/AO46_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/AO46/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/AO46
+    
+
+[Wed Sep 17 14:44:48 2025]
+localrule mitofinder:
+    input: /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz, /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz, /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb
+    output: /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results
+    jobid: 20
+    reason: Missing output files: /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results; Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: sample=LAU5
+    threads: 3
+    resources: tmpdir=/tmp/2046797.1.medium.q
+Shell command: 
+        export PATH=$PATH:/home/toriowo/Tools/Mitofinder/MitoFinder
+        module load java/jre1.8.0_231
+
+        mkdir -p /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+        cd /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+
+        mitofinder -j LAU5                    -1 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_1.fq.gz                    -2 /share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20250904/X208SC25077022-Z01-F001/01.RawData/LAU5/LAU5_EKDN250030875-1A_22WTWYLT4_L7_2.fq.gz                    -r /home/toriowo/Projects/Assemble_Mitochondria/reference_mitochondria/NC_020358_Phoxinus_phoxinus.gb                    --max-contig 1                    -o 2                    -p 3
+
+        if [ -d /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results ]; then
+            mkdir -p /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5
+            mv /share/pool/toriowo/Resources/mitogenomes/temp/LAU5/LAU5_MitoFinder_megahit_mitfi_Final_Results                /share/pool/toriowo/Resources/mitogenomes/outputs/LAU5/
+        fi
+
+        rm -rf /share/pool/toriowo/Resources/mitogenomes/temp/LAU5
+    
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Select jobs to execute...
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.
+Resources before job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Ready jobs: 14
+Selected jobs: 0
+Resources after job selection: {'_cores': 0, '_nodes': 9223372036854775797, '_job_count': 100}
+Waiting for running jobs to complete.

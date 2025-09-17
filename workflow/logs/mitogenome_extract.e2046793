@@ -1,0 +1,7 @@
+### module info ###
+# loaded module miniforge/24.7.1-0
+# For further information see:
+# https://github.com/conda-forge/miniforge
+######
+
+Error: Snakefile "/home/toriowo/Snakemake_projects/mitogenome-extraction-workflow/workflow/rules/extract-mitogenomes.smk" not found.
