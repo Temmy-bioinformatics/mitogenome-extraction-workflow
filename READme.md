@@ -1,4 +1,4 @@
-Absolutely, Temitope! I’ve cleaned up and formatted your README so it looks sharp and professional on GitHub. Here's the improved version using proper Markdown syntax, headers, code blocks, and bullet points:
+Absolutely, Temitope — your README is already packed with great content, but I’ll help you polish it so it looks crisp, professional, and GitHub-ready. Here's a fully formatted version with clean Markdown structure, proper headings, code blocks, and a citation section for MitoFinder:
 
 ---
 
@@ -20,11 +20,12 @@ A Snakemake workflow to extract and annotate mitochondrial genomes from raw Illu
   - [⚙️ Requirements](#️-requirements)
   - [🛠️ Configuration](#️-configuration)
   - [🧪 Running the Workflow](#-running-the-workflow)
-    - [Dry Run (Preview)](#dry-run-preview)
-    - [Full Run (Local)](#full-run-local)
-    - [Cluster Execution (SGE)](#cluster-execution-sge)
+    - [🔍 Dry Run (Preview)](#-dry-run-preview)
+    - [🚀 Full Run (Local)](#-full-run-local)
+    - [☁️ Cluster Execution (SGE)](#️-cluster-execution-sge)
   - [📦 Output](#-output)
   - [💡 Tips and Notes](#-tips-and-notes)
+  - [📖 Citation](#-citation)
 
 ---
 
@@ -99,7 +100,7 @@ threads: 7
 
 ## 🧪 Running the Workflow
 
-### Dry Run (Preview)
+### 🔍 Dry Run (Preview)
 
 ```bash
 snakemake --snakefile workflow/rules/extract-mitogenomes.smk \
@@ -110,7 +111,7 @@ snakemake --snakefile workflow/rules/extract-mitogenomes.smk \
           -n
 ```
 
-### Full Run (Local)
+### 🚀 Full Run (Local)
 
 ```bash
 snakemake --snakefile workflow/rules/extract-mitogenomes.smk \
@@ -120,7 +121,7 @@ snakemake --snakefile workflow/rules/extract-mitogenomes.smk \
           --reason
 ```
 
-### Cluster Execution (SGE)
+### ☁️ Cluster Execution (SGE)
 
 Submit your job script:
 
@@ -157,5 +158,14 @@ Temporary directories are removed after successful completion.
 - `_1` and `_2` FASTQs must be paired and in the same folder  
 - Always run a dry-run first to verify setup  
 - Adjust `threads` in `config.yaml` based on available resources
+
+---
+
+## 📖 Citation
+
+The reference for Mitofinder, please cite:
+
+> Allio, R., Schomaker-Bastos, A., Romiguier, J., Prosdocimi, F., Nabholz, B., & Delsuc, F. (2020). MitoFinder: Efficient automated large-scale extraction of mitogenomic data in target enrichment phylogenomics. *Molecular Ecology Resources*, 20(4), 892–905.  
+> [https://doi.org/10.1111/1755-0998.13160](https://doi.org/10.1111/1755-0998.13160)
 
 ---
