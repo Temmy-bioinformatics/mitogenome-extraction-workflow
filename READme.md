@@ -1,7 +1,7 @@
 # 🧬 MitoExtractor Snakemake Workflow
 
 **Author:** Temitope Oriowo  
-**Email:** t.oriowo@leibniz-lib.de  
+**Email:** ooriowotemitope@gmail.com 
 
 A Snakemake workflow to extract and annotate mitochondrial genomes from raw Illumina paired-end sequencing data using **MitoFinder**. It supports recursive detection of FASTQ files in subdirectories and organizes outputs by sample.
 
