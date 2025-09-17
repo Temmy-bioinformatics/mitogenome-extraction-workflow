@@ -1,5 +1,3 @@
-Absolutely, Temitope — your README is already packed with great content, but I’ll help you polish it so it looks crisp, professional, and GitHub-ready. Here's a fully formatted version with clean Markdown structure, proper headings, code blocks, and a citation section for MitoFinder:
-
 ---
 
 # 🧬 MitoExtractor Snakemake Workflow
@@ -13,19 +11,18 @@ A Snakemake workflow to extract and annotate mitochondrial genomes from raw Illu
 
 ## 📚 Table of Contents
 
-- [🧬 MitoExtractor Snakemake Workflow](#-mitoextractor-snakemake-workflow)
-  - [📚 Table of Contents](#-table-of-contents)
-  - [🚀 Project Overview](#-project-overview)
-  - [🗂️ Directory Structure](#️-directory-structure)
-  - [⚙️ Requirements](#️-requirements)
-  - [🛠️ Configuration](#️-configuration)
-  - [🧪 Running the Workflow](#-running-the-workflow)
-    - [🔍 Dry Run (Preview)](#-dry-run-preview)
-    - [🚀 Full Run (Local)](#-full-run-local)
-    - [☁️ Cluster Execution (SGE)](#️-cluster-execution-sge)
-  - [📦 Output](#-output)
-  - [💡 Tips and Notes](#-tips-and-notes)
-  - [📖 Citation](#-citation)
+- [📚 Table of Contents](#-table-of-contents)
+- [🚀 Project Overview](#-project-overview)
+- [🗂️ Directory Structure](#️-directory-structure)
+- [⚙️ Requirements](#️-requirements)
+- [🛠️ Configuration](#️-configuration)
+- [🧪 Running the Workflow](#-running-the-workflow)
+  - [🔍 Dry Run (Preview)](#-dry-run-preview)
+  - [🚀 Full Run (Local)](#-full-run-local)
+  - [☁️ Cluster Execution (SGE)](#️-cluster-execution-sge)
+- [📦 Output](#-output)
+- [💡 Tips and Notes](#-tips-and-notes)
+- [📖 Citation](#-citation)
 
 ---
 
