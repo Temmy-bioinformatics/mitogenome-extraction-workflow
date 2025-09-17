@@ -46,7 +46,7 @@ mitogenome-extraction-workflow/
 │   └── config.yaml              # Workflow configuration
 ├── workflow/
 │   ├── rules/
-│   │   └── extract-mitogenomes.smk  # Snakemake rules
+│   │   └── 01-extract_mitogenomes.smk  # Snakemake rules
 │   └── logs/                    # Logs for job submissions
 ├── results/                     # Final outputs (configured in config.yaml)
 ├── envs/                        # Optional conda environments

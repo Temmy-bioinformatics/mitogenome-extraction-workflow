@@ -15,7 +15,7 @@ module load miniforge/24.7.1-0
 
 
 # #Extract tar files first before running snakemake
-# TAR_FILE="/share/pool/CompGenomVert/RawData/Novogene_Phoxinus_20240610/X208SC24022985-Z01-F002.tar"
+# TAR_FILE="/RawData/Novogene_Phoxinus_20240610/X208SC24022985-Z01-F002.tar"
 # NEW_DIR="/share/pool/toriowo/Resources/madlen_vienna_mitogenomes/extracted"
 
 # # Create the new directory if it doesn't exist
