@@ -1,5 +1,3 @@
----
-
 # 🧬 MitoExtractor Snakemake Workflow
 
 **Author:** Temitope Oriowo  
@@ -11,18 +9,19 @@ A Snakemake workflow to extract and annotate mitochondrial genomes from raw Illu
 
 ## 📚 Table of Contents
 
-- [📚 Table of Contents](#-table-of-contents)
-- [🚀 Project Overview](#-project-overview)
-- [🗂️ Directory Structure](#️-directory-structure)
-- [⚙️ Requirements](#️-requirements)
-- [🛠️ Configuration](#️-configuration)
-- [🧪 Running the Workflow](#-running-the-workflow)
-  - [🔍 Dry Run (Preview)](#-dry-run-preview)
-  - [🚀 Full Run (Local)](#-full-run-local)
-  - [☁️ Cluster Execution (SGE)](#️-cluster-execution-sge)
-- [📦 Output](#-output)
-- [💡 Tips and Notes](#-tips-and-notes)
-- [📖 Citation](#-citation)
+- [🧬 MitoExtractor Snakemake Workflow](#-mitoextractor-snakemake-workflow)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [🚀 Project Overview](#-project-overview)
+  - [🗂️ Directory Structure](#️-directory-structure)
+  - [⚙️ Requirements](#️-requirements)
+  - [🛠️ Configuration](#️-configuration)
+  - [🧪 Running the Workflow](#-running-the-workflow)
+    - [🔍 Dry Run (Preview)](#-dry-run-preview)
+    - [🚀 Full Run (Local)](#-full-run-local)
+    - [☁️ Cluster Execution (SGE)](#️-cluster-execution-sge)
+  - [📦 Output](#-output)
+  - [💡 Tips and Notes](#-tips-and-notes)
+  - [📖 Citation](#-citation)
 
 ---
 
